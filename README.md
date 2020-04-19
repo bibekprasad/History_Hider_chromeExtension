@@ -20,3 +20,6 @@ Incase, you have downloaded the code, extract the zip file
      Choose the History-Hide folder and Press OK
 
      Now you have successfully installed the extension.
+     
+     
+Now directly click on the History tab from settings or click on the extension icon.     
