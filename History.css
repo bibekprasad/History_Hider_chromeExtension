@@ -1,0 +1,9 @@
+body{
+	
+	background-image: url("giphy.gif");
+	height: 200px;
+	padding: 20rem;
+	background-size: cover;
+	background-position: center;
+	;
+}
