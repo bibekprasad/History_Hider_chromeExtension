@@ -1,9 +1,17 @@
 # History_Hider_chromeExtension
-Hides the history of the chrome and displays an image
+Hides the history of the chrome and displays an image.
 
 
-TO add this as an Extension in Chrome developer:
-.>copy this code in a project
-.>navigate to the Extensions options in chrome and enable the developer options
-.>load unpack this project file and refresh it
-.>Will be able to see the extension added in your browser tab.
+How to Install History-Hider Extension
+Clone using git clone https://github.com/NJACKWinterOfCode/Tabs-Share.git
+
+Incase, you have downloaded the code, extract the zip file
+
+Open Chrome Browser
+
+Click on Menu from top right corner of window
+Go to More tools/Extensions
+Turn on Developer mode from right corner
+Click on Load unpacked
+Choose the History-Hide folder and Press OK
+Now you have successfully installed the extension.
